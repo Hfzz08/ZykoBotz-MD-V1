@@ -6,7 +6,7 @@
 // • Allah SWT
 // • WH MODS DEV
 // • ZYKO-MD
-// • Dll
+// • Hfzzrl_
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -50,21 +50,21 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['6285932593801', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+['6287764866518', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.nomorown1 = '6281386943282'
-global.nomorown2 = '6281386943282'
+global.nomorbot = '6287764866518'
+global.nomorown = '6285932593801'
+global.nomorown1 = '6285932593801'
+global.nomorown2 = '6287764866518'
 global.nomorwa = '0'
 global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
 
 /*============== STAFF ==============*/
 /*global.owner = [
-  ['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['6285932593801', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -95,32 +95,32 @@ global.stickauth = `© 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown1= 'Hfzzrl_'
+global.nameown2 = 'I'm Hfzzrl_'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.Linkgc = ''
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R' //group whatsapp
+global.sig = 'https://instagram.com/hfzzrl_'
+global.tautanwa = 'https://wa.me/6285932593801'
+global.sgh = 'https://github.com/Hfzz08' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/@zykobotz'
-global.sfb = 'https://www.facebook.com/' // facebook
+global.syt = '-'
+global.sfb = 'https://www.facebook.com/Hafizz' // facebook
 global.snh = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085212649276'
-global.povo = '081386943282'
-global.pgopay = '085212649276'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '085932593801'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085212649276'
-global.ppulsa2 = '085212649276'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '085932593801'
+global.ppulsa2 = '087764866518'
+global.psaweria = '-'
+global.donasikabul = 'Jasa Sewa ZykoBotz-MD\',
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
